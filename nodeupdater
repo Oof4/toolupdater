@@ -1,1 +1,7 @@
-
+update();
+function update();
+when async def on ready;
+function();
+run update();
+install latest();
+if args failure = 1 <
