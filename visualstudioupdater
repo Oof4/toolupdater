@@ -1,1 +1,11 @@
 update();
+set frequency to = 'Always'
+async def on ready
+print **CONSOLE** on ready = Updating Files..
+then Downloading Updates...
+then Installing Updates...
+{ 
+end
+}
+then finish
+if failure loop
